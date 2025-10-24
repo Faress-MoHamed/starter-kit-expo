@@ -15,7 +15,7 @@
 		"preset": "jest-expo"
 	},
 	"bin": {
-		"new-expo": "./create.js"
+		"starter-kit-expo": "./create.js"
 	},
 	"dependencies": {
 		"@expo/html-elements": "^0.12.5",
