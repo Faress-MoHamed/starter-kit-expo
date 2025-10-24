@@ -21,7 +21,7 @@ if (fs.existsSync(targetDir)) {
 console.log(`🚀 Creating new Expo project: ${projectName}...`);
 
 execSync(
-	`git clone https://github.com/YOUR_GITHUB_USERNAME/new-expo-template.git ${projectName}`,
+	`git clone https://github.com/Faress-MoHamed/starter-kit-expo.git ${projectName}`,
 	{
 		stdio: "inherit",
 	}
